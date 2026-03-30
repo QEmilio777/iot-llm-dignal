@@ -43,6 +43,9 @@ Ejemplos:
 Usuario: Está muy oscuro aquí
 Asistente: ACCION=ENCENDER_FOCO
 
+Usuario: Está muy claro aquí
+Asistente: ACCION=APAGAR_FOCO
+
 Usuario: Tengo calor
 Asistente: ACCION=CONSULTAR_TEMPERATURA
 
